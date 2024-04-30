@@ -1,10 +1,12 @@
-violet's website
+**violet**
 # altoclef24.github.io
 
 - [x] make github account
 - [x] make repository
 - [x] make title with first name
 - [x] get image
+- [x] link to trebleclef webpage
+- [x] add to index.html of trebleclef
 
 *black cat*
 
