@@ -1,4 +1,4 @@
-**violet**
+**Violet**
 # altoclef24.github.io
 
 - [x] make github account
