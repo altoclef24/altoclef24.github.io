@@ -18,4 +18,4 @@
 
 [trebleclef]( https://altoclef24.github.io/trebleclef/)
 
-[class 10 rubrick]( https://altoclef24/alto24/)
+[class 10 rubrick](https://github.com/altoclef24/alto24/)
