@@ -14,7 +14,7 @@
 - [x] add the rubric webapge to my main page of my website
 - [x] add a paragraph about my chosen topic.
 
-![curly cat]([https://cdn.royalcanin-weshare-online.io/s2mQHGsBG95Xk-RBh_gK/v12/bc48h-hub-selkirk-rex-adult-black-and-white])
+![curly cat]([https://v12/bc48h-hub-selkirk-rex-adult-black-and-white])
 
 [Selkirk rex]( https://altoclef24.github.io/trebleclef/)
 
