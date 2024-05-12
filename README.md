@@ -14,7 +14,7 @@
 - [x] add the rubric webapge to my main page of my website
 - [x] add a paragraph about my chosen topic.
 
-![black cat](https://i.pinimg.com/736x/31/e8/e8/31e8e8b9af9d2982b8cd29cd73bc81eb.jpg)
+![White cat]([https://www.womansworld.com/wp-content/uploads/2024/09/Belikart.jpg?resize=953,536])
 
 [Selkirk rex]( https://altoclef24.github.io/trebleclef/)
 
