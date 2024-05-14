@@ -16,6 +16,6 @@
 
 ![curly cat](https://cdn.royalcanin-weshare-online.io/s2mQHGsBG95Xk-RBh_gK/v12/bc48h-hub-selkirk-rex-adult-black-and-white)
 
-[Selkirk rex]( https://altoclef24.github.io/trebleclef/)
-
+[Selkirk Rex]( https://altoclef24.github.io/trebleclef/)
+[Devon Rex]( https://altoclef24.github.io/cat/)
 [class 10 rubric]( https://altoclef24.github.io/alto24/)
