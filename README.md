@@ -1,4 +1,4 @@
- <H1> CurlyCat </H1>
+ <h1> CurlyCat </h1>
 
 ![curly cat](https://cdn.royalcanin-weshare-online.io/s2mQHGsBG95Xk-RBh_gK/v12/bc48h-hub-selkirk-rex-adult-black-and-white)
 
