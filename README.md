@@ -19,4 +19,5 @@
 [Selkirk Rex]( https://altoclef24.github.io/trebleclef/)
 [Devon Rex]( https://altoclef24.github.io/cat/)
 [Cornish Rex](https://altoclef24.github.io/curlycat/)
+[German Rex]( https://altoclef24.github.io/wavy-cat/)
 [class 10 rubric]( https://altoclef24.github.io/alto24/)
