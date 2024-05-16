@@ -8,5 +8,6 @@
 [Cornish Rex](https://altoclef24.github.io/curlycat/)
 [German Rex]( https://altoclef24.github.io/wavy-cat/)
 [Ural Rex]( https://altoclef24.github.io/wavy/)
+[Tennessee Rex]( https://altoclef24.github.io/cat.curly/)
 [Laperm]( https://altoclef24.github.io/curly/)
 [class 10 rubric]( https://altoclef24.github.io/alto24/)
